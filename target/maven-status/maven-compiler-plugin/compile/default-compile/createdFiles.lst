@@ -1,0 +1,4 @@
+net/codejava/hibernate/BookManager.class
+net/codejava/controller/BookRestController.class
+net/codejava/hibernate/Book.class
+net/dropwizard/App.class
